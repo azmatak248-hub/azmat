@@ -1,0 +1,12 @@
+print("list")
+l1=[1,2,"abc",3,"xyz",2,5]
+print(l1)  
+print("Dictionary")
+d1={"a":123,"b":786,"c":456}
+print(d1)
+print("tuples")
+t1=(10,20,30,40,50)
+print(t1)
+print("Sets")
+s1={10,30,20,40,10,30,40,20,50}
+print(s1)
